@@ -1,28 +1,42 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <meta charset="UTF-8">
         <title> Вхід </title>
+        <link href="index1.css" rel="stylesheet">
     </head>
     <body>
+      <header>
+        <div class="header_1">
+            <a href="index.html"> <b> Головнa </b></a> 
+            <a href="enter.html" > <b> Вхід </b></a>
+            <a href="enter.html"> <b> Авторизація </b></a>
+          <div class="clear"> </div>
         <main>
             <center>
                 <div class="background_form">
                     <div class="form_enter">
                         <form method="get" action="form.php">
+                            <br>
+                            <br>
+                            <br>
                             <h2> Авторизація </h2>
                             <br>
-                            <p> <label for="login"> Логін* </label></p> <input type="text" name="login" id="login" placeholder="Kurrama" required> </input>
                             <br>
-                            <p> <label for="password1"> Пароль* </label></p> <input type="password1" name="pass1" id="pas1" required> </input>
+                            <p> <lable for="login"> <b>Логін* </lable></p> <input type="text" name="login" id="login" placeholder="Kurrama" required> </input>
                             <br>
-                            <p> <label for="password2"> Повторіть Пароль* </label></p> <input type="password2" name="pass2" id="pas2" required> </input>
+                            <p> <lable for="password1"> <b> Пароль* </lable></p> <input type="password1" name="pass1" id="pas1" required> </input>
                             <br>
-                            <label><input type="checkbox" name="check" id="check"> <span> Замап'ятати дані* </span></label>
+                            <p> <lable for="password2"> <b> Повторіть Пароль* </lable></p> <input type="password2" name="pass2" id="pas2" required> </input>
                             <br>
                             <br>
-                            <input type="submit" value="Вхід" name="enter" class="Button"
+                            <lable><input type="checkbox" name="check" id="check"> <span> Замап'ятати дані* </span></lable>
                             <br>
-                            <a href="recovery.html"> Відновити пароль </a>
+                            <br>
+                            <input type="submit" value="Вхід" name="enter" class="Button"> </input>
+                            <br>
+                            <br>
+                            <a href="recovery.html"> <b>Відновити пароль </b></a>
                         </form> 
                     </div>
                 </div>

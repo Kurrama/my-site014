@@ -23,7 +23,7 @@ header .header_1 a:hover{
 }
 
 header .header_2{
-    height:500px;
+    height:600px;
     background-image: url('https://img1.goodfon.ru/original/1680x1050/4/38/tumannost-zvezdy-kosmos-6283.jpg');
     margin:auto;
      border-bottom:2px solid #818181;
@@ -54,44 +54,71 @@ header .header_2{
     border-radius:6px;
     color:#818181;
 }
-.header_2 form a:hover{
-      background:linear-gradient(to bottom, #404040 0, #2B2B2B 50%, #0F0F0F 50%, #212121 100%) no-repeat;
-}
-.header_2 form input[type="search"]{
-    
-    width:420px;
-    height:30px;
-    margin-top:25px;
-    margin-left:16px;
-    border-radius: 6px;
-    text-indent: 10px;
-    color:#818181;
-}
-.header_2 form input[type="submit"]{
-    border-radius:4px;
-    height:30px;
-    width:70px;
-    margin-left:18px;
-    color:#818181;
-    background:linear-gradient(to bottom,#dddddd 50% ,#c6c6c6 95%);
-    font-size:15px;
-    font-family:Times New Roman ,sans-serif;
-    cursor: pointer;
-}
-.header_2 form input[type="submit"]:hover{
-    background:linear-gradient(to bottom, red ) no-repeat;
-         
-}
 .header_2 .header_par{
-    font-size:22px;
+    font-size:27px;
     color:white;
     margin-bottom:0;
 }
-.header_2 form input[type="radio"]{
-    margin-top:15px;
+main {
+    background-color: black;
 }
-.header_2 form span{
-    color:#0C99D3;
-    text-decoration:underline;
+h2 {
+    color: red;
+    font-size: 40px;
+    font-family: Times New Roman, Arial, Helvetica, Sans-Serif;
 }
-/* /header */
+h {
+    color: black;
+    font-family: Times New Roman, Arial, Helvetica, Sans-Serif;
+}
+.news-block1 {
+  color:white ;
+  background-image: url('http://fonday.ru/images/tmp/10/9/original/109934FnOsDUUIeBk7ZFbgf60f0.jpg');
+  width:1100px;
+  height:120px;
+  border:5px solid white;
+  margin:30px;
+} 
+.news-block2 {  
+  color:white ;
+   background-image: url('https://i.ytimg.com/vi/E2vfL9l9sOM/maxresdefault.jpg');
+  width:1100px;
+  height:120px;
+  border:5px solid white;
+  margin:30px;
+}
+.news-block3 {
+  color:white ;
+  background-image: url('http://dokonline.com/uploads/posts/2016-05/1463308734_adv.jpg');
+  width:1100px;
+  height:120px;
+  border:5px solid white;
+  margin:30px;
+}
+a {
+    color: orange;
+}
+a:hover{
+    color: red;
+}
+footer {
+    margin:0;
+    padding:0;
+    background-color: grey ;  
+    font-size: 16px;
+    font-family: Times New Roman, Arial, Helvetica, Sans-Serif;
+}
+h3 {
+    color: white;
+    font-size: 20px;
+}
+textarea {
+	overflow: auto;
+	resize: none;
+	width: 300px;
+	height: 50px;
+	background: #f6f6f6;
+	border: 1px solid #cecece;
+	border-radius: 8px 0 0 0;
+	padding: 8px 0 8px 10px;
+}
