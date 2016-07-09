@@ -1,0 +1,44 @@
+body {
+    margin:0;
+    padding:0;
+    font-size: 16px;
+    font-family: Times New Roman, Arial, Helvetica, Sans-Serif;
+    background-image: url("http://file.mobilmusic.ru/82/16/a6/775770.jpg")
+}
+header .header_1{
+    border-top:2px solid #818181;
+    height:35px;
+    background:linear-gradient( to bottom ,#343434 15% ,  #242424 50%, #0f0f0f 75% ,#0B0B0B 95%);
+}
+header .header_1 a{
+    text-decoration:none;
+    color:orange;
+    font-size:15px;
+    float:right;
+    margin-right:300px;
+    margin-top:5px;
+}
+header .header_1 a:hover{
+    color: purple;
+    animation-fill-mode: both;
+}
+main {
+     margin:0;
+    padding:0;
+    font-size: 16px;
+    font-family: Times New Roman, Arial, Helvetica, Sans-Serif;
+}
+h2 {
+    margin: 60px auto;
+    padding: 10px;
+    font-size: 80px;
+    font-family: Times New Roman, Arial, Helvetica, Sans-Serif;
+    color: yellow;
+}
+p {
+    color: red;
+    font-size:25px;
+    font-family: Times New Roman, Arial, Helvetica, Sans-Serif;
+     text-shadow: 0 1px 0 rgba(0,0,0,0.8);
+    
+}
