@@ -1,7 +1,7 @@
 body{
     margin:0;
     padding:0;
-    background c: black ;  
+    background-color: black ;  
     font-size: 16px;
     font-family: Times New Roman, Arial, Helvetica, Sans-Serif;
 }
@@ -60,7 +60,10 @@ header .header_2{
     margin-bottom:0;
 }
 main {
-    background-color: black;
+     margin:0;
+    padding:0;
+    background-image: url('http://hq-wallpapers.ru/wallpapers/9/hq-wallpapers_ru_space_44148_1920x1200.jpg') ;  
+    font-size: 16px;
 }
 h2 {
     color: red;
