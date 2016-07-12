@@ -45,6 +45,7 @@ p {
 footer {
     font-size: 16px;
     margin-bottom: 20px;
+    background-color: black;
     font-family: Times New Roman, Arial, Helvetica, Sans-Serif;
 }
 h3 {
