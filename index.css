@@ -1,6 +1,8 @@
 body{
     margin:0;
     padding:0;
+    min-width: 320px;
+    max-width: 1920px;
     background-color: black ;  
     font-size: 16px;
     font-family: Times New Roman, Arial, Helvetica, Sans-Serif;
@@ -62,7 +64,7 @@ header .header_2{
 main {
      margin:0;
     padding:0;
-    background-image: url('http://hq-wallpapers.ru/wallpapers/9/hq-wallpapers_ru_space_44148_1920x1200.jpg') ;  
+    background-image: url('http://cidadao-x.890m.com/wp-content/uploads/2016/03/18793-firey-cosmos-1920x1200-fantasy-wallpaper.jpg') ;  
     font-size: 16px;
 }
 h2 {
@@ -84,7 +86,7 @@ h {
 } 
 .news-block2 {  
   color:white ;
-   background-image: url('https://i.ytimg.com/vi/E2vfL9l9sOM/maxresdefault.jpg');
+  background-image: url('http://file.mobilmusic.ru/2c/78/cb/784933.jpg');
   width:1100px;
   height:120px;
   border:5px solid white;
@@ -92,12 +94,22 @@ h {
 }
 .news-block3 {
   color:white ;
-  background-image: url('http://dokonline.com/uploads/posts/2016-05/1463308734_adv.jpg');
+  background-image: url('http://universe-beauty.com/albums/userpics/1/4/planets-art-img91.jpg');
   width:1100px;
   height:120px;
   border:5px solid white;
   margin:30px;
 }
+.news-block4 {
+  color:white ;
+  background-image: url('https://wallpaperscraft.ru/image/kosmos_kataklizm_planeta_art_vzryv_asteroidy_komety_oblomki_98315_1920x1080.jpg');
+  width:1100px;
+  height:120px;
+  border:5px solid white;
+  margin:30px;
+}
+
+
 a {
     color: orange;
 }
@@ -105,10 +117,9 @@ a:hover{
     color: red;
 }
 footer {
-    margin:0;
-    padding:0;
-    background-color: green ;  
+    background-color: black;  
     font-size: 16px;
+    margin-bottom: 20px;
     font-family: Times New Roman, Arial, Helvetica, Sans-Serif;
 }
 h3 {
@@ -123,5 +134,12 @@ textarea {
 	background: #f6f6f6;
 	border: 1px solid #cecece;
 	border-radius: 8px 0 0 0;
-	padding: 8px 0 8px 10px;
+}
+h4 {
+    color: red;
+    font-size: 30px;
+    font-family: Times New Roman, Arial, Helvetica, Sans-Serif;
+}
+h4:hover {
+    color: blue;
 }
