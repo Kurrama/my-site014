@@ -6,6 +6,7 @@ body{
     background-color: black ;  
     font-size: 16px;
     font-family: Times New Roman, Arial, Helvetica, Sans-Serif;
+    background-image: url('http://flatonika.ru/wp-content/uploads/2014/09/Krasivie-foni-dlya-sayta-Background-09-e1409775195869.jpg');
 }
 header .header_1{
     border-top:3px solid #818181;
@@ -25,14 +26,17 @@ header .header_1 a{
 }
 
 .header_2{
-    height: 600px;
+    height: 00px;
     margin:auto;
     border-bottom:2px solid #818181;
-    background-image: url('http://file.mobilmusic.ru/2c/78/cb/784933.jpg');
+}
+img {
+    width: 650px;
+    height: 480px;
 }
 h1 {
     color: white;
-    font-size: 90px;
+    font-size: 80px;
     margin-top:0;
     margin-bottom:20px;
     padding-top:20px;
@@ -46,45 +50,11 @@ h2 {
     padding-top:20px;
     text-align:center;
 }
-p {
-    color: blue;
-    font-size: 20px;
-    font-family: Times New Roman, Arial, Helvetica, Sans-Serif
-}
-footer {
-    background-color: black;  
-    font-size: 16px;
-    margin-bottom: 20px;
-    font-family: Times New Roman, Arial, Helvetica, Sans-Serif;
-}
 h3 {
-    color: white;
-    font-size: 20px;
-}
-textarea {
-	overflow: auto;
-	resize: none;
-	width: 300px;
-	height: 50px;
-	background: #f6f6f6;
-	border: 1px solid #cecece;
-	border-radius: 8px 0 0 0;
-}
-h3 {
-    color: white;
-    font-size: 50px;
-}
-h4 {
-    color: purple;
-    font-size: 35px;
-    font-family: Times New Roman, Arial, Helvetica, Sans-Serif;
-}
-h5 {
-    color: white;
-    font-size: 16px;
-}
-
-h7 {
     color: red;
-    font-size:25px;
+    font-size: 20px;
+    margin-top:0;
+    margin-bottom:20px;
+    padding-top:20px;
+    text-align:center;
 }

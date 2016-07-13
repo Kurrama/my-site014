@@ -1,9 +1,12 @@
-body {
-    margin:0;
+body{
+    margin:0 auto;
     padding:0;
+    min-width: 1080px;
+    max-width: 1920px;
+    background-image:url('https://wallpaperscraft.ru/image/kosmos_planeta_svet_galaktika_94490_1920x1080.jpg');
+    background-color: black ;  
     font-size: 16px;
     font-family: Times New Roman, Arial, Helvetica, Sans-Serif;
-    background-image:url('https://wallpaperscraft.ru/image/kosmos_planeta_svet_galaktika_94490_1920x1080.jpg');
 }
 header .header_1{
     border-top:2px solid #818181;
@@ -15,7 +18,7 @@ header .header_1 a{
     color:orange;
     font-size:15px;
     float:right;
-    margin-right:300px;
+    margin-right:400px;
     margin-top:5px;
 }
 header .header_1 a:hover{

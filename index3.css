@@ -2,7 +2,7 @@ body{
     margin:0 auto;
     padding:0;
     min-width: 1080px;
-    max-width: 1600px;
+    max-width: 1920px;
     background-color: black ;  
     font-size: 16px;
     font-family: Times New Roman, Arial, Helvetica, Sans-Serif;
@@ -17,7 +17,7 @@ header .header_1 a{
     color:orange;
     font-size:16px;
     float:right;
-    margin-right:300px;
+    margin-right:400px;
     margin-top:5px;
 }
 .header_1 a:hover{
