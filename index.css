@@ -1,8 +1,8 @@
 body{
-    margin:0;
+    margin:0 auto;
     padding:0;
-    min-width: 320px;
-    max-width: 1920px;
+    min-width: 1080px;
+    max-width: 1580px;
     background-color: black ;  
     font-size: 16px;
     font-family: Times New Roman, Arial, Helvetica, Sans-Serif;
@@ -62,7 +62,7 @@ header .header_2{
     margin-bottom:0;
 }
 main {
-     margin:0;
+    margin:0 auto;
     padding:0;
     background-image: url('http://cidadao-x.890m.com/wp-content/uploads/2016/03/18793-firey-cosmos-1920x1200-fantasy-wallpaper.jpg') ;  
     font-size: 16px;
@@ -124,7 +124,7 @@ footer {
 }
 h3 {
     color: white;
-    font-size: 20px;
+    font-size: 50px;
 }
 textarea {
 	overflow: auto;

@@ -1,0 +1,62 @@
+body{
+    margin:0 auto;
+    padding:0;
+    min-width: 1080px;
+    max-width: 1580px;
+    background-color: black ;  
+    font-size: 16px;
+    font-family: Times New Roman, Arial, Helvetica, Sans-Serif;
+}
+header .header_1{
+    border-top:3px solid #818181;
+    height:35px;
+    background:linear-gradient( to bottom ,#343434 15% ,  #242424 50%, #0f0f0f 75% ,#0B0B0B 95%);
+}
+header .header_1 a{
+    text-decoration:none;
+    color:orange;
+    font-size:16px;
+    float:right;
+    margin-right:300px;
+    margin-top:5px;
+}
+.header_1 a:hover{
+    color: blue;
+}
+
+.header_2{
+    height: 600px;
+    margin:auto;
+    border-bottom:2px solid #818181;
+    background-image: url('https://wallpaperscraft.ru/image/kosmos_kataklizm_planeta_art_vzryv_asteroidy_komety_oblomki_98315_1920x1080.jpg');
+}
+h1 {
+    color: white;
+    font-size: 90px;
+    margin-top:0;
+    margin-bottom:20px;
+    padding-top:20px;
+    text-align:center;
+}
+h2 {
+    color: white;
+    font-size: 40px;
+    margin-top:0;
+    margin-bottom:20px;
+    padding-top:20px;
+    text-align:center;
+}
+p {
+    color: blue;
+    font-size: 20px;
+    font-family: Times New Roman, Arial, Helvetica, Sans-Serif
+}
+li {
+    color: yellow;
+    font-size: 20px;
+}
+h4 {
+    color: purple;
+    font-size: 35px;
+    font-family: Times New Roman, Arial, Helvetica, Sans-Serif;
+}
