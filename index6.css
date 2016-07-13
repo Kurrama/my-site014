@@ -30,12 +30,8 @@ header .header_1 a{
     margin:auto;
     border-bottom:2px solid #818181;
 }
-img {
-    width: 650px;
-    height: 480px;
-}
 h1 {
-    color: white;
+    color: purple;
     font-size: 80px;
     margin-top:0;
     margin-bottom:20px;
@@ -43,14 +39,22 @@ h1 {
     text-align:center;
 }
 h2 {
-    color: white;
+    color: purple;
     font-size: 40px;
     margin-top:0;
     margin-bottom:20px;
     padding-top:20px;
     text-align:center;
 }
-h3 {
+h7 {
+    color: red;
+    font-size: 20px;
+    margin-top:0;
+    margin-bottom:20px;
+    padding-top:20px;
+    text-align:center;
+}
+h8 {
     color: red;
     font-size: 20px;
     margin-top:0;
